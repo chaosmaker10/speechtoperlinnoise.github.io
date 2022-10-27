@@ -1,7 +1,9 @@
 body {
     background-image: url(images/wallpaperflare.com_wallpaper.jpg);
   }
-  @font-face{
+  
+
+@font-face{
     font-family:'Southwood-1GpDV';
     src:url(fonts/Southwood-1GpDv.ttf);
   }
