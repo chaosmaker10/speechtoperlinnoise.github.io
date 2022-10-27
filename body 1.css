@@ -5,7 +5,7 @@ body {
 
 @font-face{
     font-family:'Southwood-1GpDV';
-    src:url(fonts/Southwood-1GpDv.ttf);
+    src:url(fonts/Southwood-1GpDv.ttf)format('ttf');
   }
   
   h1 {
